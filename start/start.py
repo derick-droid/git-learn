@@ -4,7 +4,12 @@ def addition(x, y):
 
 def substraction(x, y):
 
-   return x - y
+    return x - y
+
+
+def divide(x, y):
+
+    return x/y
 
 
 
